@@ -9,5 +9,7 @@ int main(){
     double raio;
     scanf("%lf", &raio);
     area = (raio*raio)*N;
-    printf("A=%.4lf\n", area);    
+    printf("A=%.4lf\n", area);   
+    
+    return 0;
 }
